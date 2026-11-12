@@ -71,7 +71,7 @@ Currently expanding my expertise in Artificial Intelligence and Machine Learning
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/mohammedvasim
-- LinkedIn: YOUR_LINKEDIN_PROFILE
+- LinkedIn: https://www.linkedin.com/in/mohammed-vasim-398498239/
 
 ---
 
